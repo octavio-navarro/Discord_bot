@@ -5,6 +5,7 @@ Bot de discord para manejo de tareas relacionadas con programación competitiva.
 - Leaderboard de concursantes
 - Concursos activos
 - Problemas resueltos
+- Daily leetcode challenge
 
 # Recursos
 
